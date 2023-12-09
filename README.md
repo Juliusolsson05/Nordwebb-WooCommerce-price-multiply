@@ -30,10 +30,10 @@ The Nordwebb Price Multiplier Plugin is a custom-built solution for WooCommerce 
 We welcome contributions and suggestions to improve this plugin. Please feel free to fork the repository, make changes, and submit pull requests.
 
 ## Support
-If you encounter any issues or have questions, please email support@nordwebb.com.
+If you encounter any issues or have questions, please email nordwebb@gmail.com.
 
 ## License
-This plugin is open-source and distributed under the [license name].
+This plugin is open-source and distributed under the MIT License.
 
 ## Acknowledgements
 Thanks to our dedicated team and our client for inspiring the creation of this plugin.
